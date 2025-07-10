@@ -42,7 +42,7 @@
 | 1  | Favorite Cities  | ⭐⭐         | Practice persistent storage and switching between inputs |
 | 2  | Weather Alerts   | ⭐⭐         | Implement user-based conditional logic |
 | 3  | Weather Journal  | ⭐⭐         | Add interactivity and user-generated data |
-|    | **Enhancement**  | –          | Personality / chatbot-style interaction |
+|    | **Enhancement**  | –          | Enhanced Emojis |
 
 ---
 
