@@ -87,3 +87,7 @@ Built by Samantha Shuler-Pomeroy as part of the Justice Through Code capstone pr
 ## 📜 License
 
 MIT — do what you want, just don’t blame me if it rains 😄
+
+Week 13 API Check-in
+
+After accidentally breaking some things during my skills check (oops), I got it working again! I added buttons for viewing history, alerts, and adding journal entries in the upcoming features. Forecast and chart panels are still in progress. Next step: refine the layout and finish data visualization features.
