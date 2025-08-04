@@ -1,0 +1,60 @@
+2025-07-02 18:52:52.302627,nashville,86,clear sky
+2025-07-02 19:09:31.434980,nashville,85,clear sky
+2025-07-08 19:54:15.090623,Nashville,79,clear sky
+2025-07-13 19:55:41.511824,honolulu,83,clear sky
+2025-07-13 19:57:07.026847,honolulu,83,clear sky
+2025-07-22 20:01:38.145906,nashville,85,clear sky
+2025-07-22 20:01:52.072117,atlanta,86,clear sky
+2025-07-22 20:02:36.174300,orlando,83,clear sky
+2025-07-22 20:02:47.960927,new york city,73,clear sky
+2025-07-22 20:03:13.672051,las vegas,99,few clouds
+2025-07-22 20:06:57.474221,san diego,72,broken clouds
+2025-07-22 20:07:15.546707,austin,93,clear sky
+2025-07-22 20:07:24.512002,houston,90,clear sky
+2025-07-22 20:08:55.440884,las vegas,99,clear sky
+2025-07-27 21:19:24.359898,nashville,84,broken clouds
+2025-07-27 21:23:41.671291,Detroit,82,clear sky
+2025-07-27 21:25:04.244831,Nashville,83,clear sky
+2025-07-31 18:42:19.060537,nashville,88,broken clouds
+2025-07-31 19:28:04,nashville,85°F,clear sky
+2025-07-31 20:05, nashville, 83°F, clear sky
+2025-07-31 20:14, nashville, 83°F, clear sky
+2025-08-03 16:25, nashville, 78°F, overcast clouds
+2025-08-03 16:27, nashville, 78°F, overcast clouds
+2025-08-03 18:53, nashville, 75°F, overcast clouds
+2025-08-03 19:05, nashville, 75°F, overcast clouds
+2025-08-03 19:19, nashville, 75°F, overcast clouds
+2025-08-03 20:44, nashville, 73°F, broken clouds
+2025-08-03 21:15, Nashville, 73°F, broken clouds
+2025-08-03 21:24, Miami, 86°F, broken clouds
+2025-08-03 21:30, Denver, 80°F, clear sky
+2025-08-03 21:31, Sacramento, 82°F, clear sky
+2025-08-03 21:31, Boston, 69°F, clear sky
+2025-08-03 21:31, Nashville, 73°F, broken clouds
+2025-08-03 21:31, Miami, 86°F, broken clouds
+2025-08-03 21:44, Atlanta, 66°F, overcast clouds
+2025-08-03 22:06, New York, 73°F, clear sky
+2025-08-03 22:06, Boston, 68°F, clear sky
+2025-08-03 22:06, Kansas CIty, 67°F, overcast clouds
+2025-08-03 22:34, Miami, 83°F, broken clouds
+2025-08-03 22:34, Boston, 68°F, clear sky
+2025-08-03 22:35, Nashville, 72°F, broken clouds
+2025-08-03 22:52, Boston, 68°F, clear sky
+2025-08-03 22:52, Miami, 83°F, broken clouds
+2025-08-03 22:52, Miami, 83°F, broken clouds
+2025-08-03 22:52, Nashville, 71°F, clear sky
+2025-08-03 22:59, nashville, 72°F, clear sky
+2025-08-03 22:59, boston, 67°F, clear sky
+2025-08-03 22:59, miami, 83°F, broken clouds
+2025-08-03 23:04, nashville, 72°F, clear sky
+2025-08-03 23:04, boston, 67°F, clear sky
+2025-08-03 23:04, miami, 82°F, broken clouds
+2025-08-03 23:12, boston, 67°F, clear sky
+2025-08-03 23:12, nashville, 72°F, clear sky
+2025-08-03 23:12, miami, 82°F, scattered clouds
+2025-08-03 23:22, boston, 67°F, clear sky
+2025-08-03 23:22, nashville, 72°F, clear sky
+2025-08-03 23:25, boston, 67°F, clear sky
+2025-08-03 23:25, miami, 82°F, scattered clouds
+2025-08-03 23:29, boston, 67°F, clear sky
+2025-08-03 23:29, nashville, 72°F, clear sky
